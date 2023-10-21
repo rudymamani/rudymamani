@@ -7,7 +7,7 @@
 </div>
   
 - 🔭 Hoje eu trabalho como programador
-- 🌱 Estudando HTML5, CSS3, JavaScript, React e C#.
+- 🌱 Estudando HTML5, CSS3, C# e Java.
 - 📫 Contate-me no email: rdz_rc@hotmail.com
 
 <div align="center">
