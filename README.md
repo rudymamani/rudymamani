@@ -6,8 +6,8 @@
    <a href="https://www.linkedin.com/in/rudy-mamani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-- 🔭 Hoje eu trabalho como programador
-- 🌱 Estudando HTML5, CSS3, C# e Java.
+- 🧑‍💻 Engenheiro de Software
+- 📖 Estudando HTML5, CSS3, C#, Java e Spring Boot.
 - 📫 Contate-me no email: rdz_rc@hotmail.com
 
 <div align="center">
