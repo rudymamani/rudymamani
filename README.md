@@ -7,7 +7,7 @@
 </div>
   
 - 🧑‍💻 Engenheiro de Software
-- 📖 Estudando HTML5, CSS3, C#, Java e Spring Boot.
+- 📖 Estudando HTML5, CSS3, Js, C#, Java e Spring Boot.
 - 📫 Contate-me no email: rdz_rc@hotmail.com
 
 <div align="center">
@@ -17,10 +17,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rudy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rudy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rudy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rudy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rudy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rudy-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rudy-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>   
 </div>
 
   ##
